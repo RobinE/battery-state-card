@@ -86,7 +86,7 @@ const defaultColor = "inherit";
 /**
  * Default step values
  */
-const defaultColorSteps: IColorSteps[] = [{ value: 20, color: "var(--label-badge-red)" }, { value: 55, color: "var(--label-badge-yellow)" }, { value: 100, color: "var(--label-badge-green)" }];
+const defaultColorSteps: IColorSteps[] = [{ value: 50, color: "var(--label-badge-red)" }, { value: 70, color: "var(--label-badge-yellow)" }, { value: 100, color: "var(--label-badge-green)" }];
 
 /**
  * HTML color pattern
